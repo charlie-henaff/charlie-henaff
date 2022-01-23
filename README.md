@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @charlie-henaff
 A web developer since 2016 how worked in different spaces from a small web agency to the famous Capgemini and now at [Sygmatel](https://sygmatel.fr), a group of electricity technicians agencies.
 
-### I've done some work 🧑‍💻
+### I've done some work recently 🧑‍💻
 - <b>On [mageltys](https://www.mageltys.fr) at _Sygmatel since 2020_</b>, a comercial use interventions management software.  
   Coworked on [api-mageltys](https://api.mageltys.app/) a multi-tenants saas rest api made with @api-platform/core and 
   solo worked on [app-mageltys](https://play.google.com/store/apps/details?id=fr.techtools.techtool) a jetpack android app .  
