@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @charlie-henaff
-A web developer since 2016 how worked in different spaces from a small web agency to the famous Capgemini and now at [Sygmatel](https://sygmatel.fr), a group of electricity technicians agencies.
+A web developer since 2016 how worked in different spaces from a small web agency to Capgemini and now at [Sygmatel](https://sygmatel.fr), a group of electricity technicians agencies.
 
 ### I've done some work recently 🧑‍💻
 - <b>On [mageltys](https://www.mageltys.fr) at _Sygmatel since 2020_</b>, a comercial use interventions management software.  
